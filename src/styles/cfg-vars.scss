@@ -1,0 +1,29 @@
+$DEV_MODE: $NODE_ENV == development;
+
+
+$wt-family-base: "Open Sans", sans-serif;
+$wt-family-head: "Open Sans", sans-serif; //сюда подключить РОБОТО
+
+//==
+//== Color palette
+//== ======================================= ==//
+
+$orange:#F15928;
+$grey:#A2A7AF;
+$dark:#1F2127;
+$light_blue:#F4F8FF;
+$white:#FFFFFF;
+$dark_blue:#1F299C;
+$light:#FBFDFF;
+$light_green:#E7FCE4;
+$light_pink:#FFF4E5;
+$red:#F11203;
+
+$extra_btn_hover: $dark_blue;
+$main_btn: $orange;
+$header_color: $white;
+$common_text: $dark;
+$table_color: $grey;
+$status_succes: $light_green;
+$status_warning: $light_pink;
+$border_input: $grey;
