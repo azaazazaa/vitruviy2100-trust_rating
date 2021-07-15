@@ -1,0 +1,1 @@
+# vitruviy2100-trust_rating
